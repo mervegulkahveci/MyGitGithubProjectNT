@@ -13,9 +13,5 @@ public class AtmProject {
         //version4
 
 
-        //version5
-
-        System.out.println("Java öğrenmek ne kadar da zevkliymiş;)");
-        //version6
     }
 }

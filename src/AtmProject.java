@@ -18,6 +18,9 @@ public class AtmProject {
         System.out.println("kodlaaaar");
         //version mrv2
 
+        System.out.println("kodlaaaar");
+        //version mrv4
+
 
     }
 }

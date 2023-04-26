@@ -15,6 +15,9 @@ public class AtmProject {
         System.out.println("taskimi tamamladim");
         //version mrv1
 
+        System.out.println("kodlaaaar");
+        //version mrv2
+
 
     }
 }

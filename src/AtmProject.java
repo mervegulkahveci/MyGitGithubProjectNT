@@ -21,6 +21,7 @@ public class AtmProject {
         System.out.println("kodlaaaar");
         //version mrv4
 
+        System.out.println();
 
     }
 }
